@@ -1,0 +1,14 @@
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\bin\Debug\netcoreapp2.2\src.deps.json
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\bin\Debug\netcoreapp2.2\src.runtimeconfig.json
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\bin\Debug\netcoreapp2.2\src.runtimeconfig.dev.json
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\bin\Debug\netcoreapp2.2\src.dll
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\bin\Debug\netcoreapp2.2\src.pdb
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.csprojAssemblyReference.cache
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.csproj.CoreCompileInputs.cache
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.RazorAssemblyInfo.cache
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.RazorAssemblyInfo.cs
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.AssemblyInfoInputs.cache
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.AssemblyInfo.cs
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.RazorTargetAssemblyInfo.cache
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.dll
+D:\Labs\.NET Core\Estudos\Supermarket.API\src\obj\Debug\netcoreapp2.2\src.pdb
